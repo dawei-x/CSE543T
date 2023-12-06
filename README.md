@@ -15,5 +15,5 @@ This report involves the evaluation of the following three algorithmic recourse 
 ### For Colab:
 To run the notebook [Exps.ipynb](./Exps.ipynb), it is highly recommended to open it with Colab. 
 
-On Colab, please head to `Runtime` -> `Change runtime type` -> `Hardware accelerator` -> `GPU`, as it will be significantly faster. Then Select `Runtime` -> `Run all`.
+On Colab, please head to `Runtime` &rarr; `Change runtime type` &rarr; `Hardware accelerator` &rarr; `GPU`, as it will be significantly faster. Then Select `Runtime` &rarr; `Run all`.
 
