@@ -12,8 +12,8 @@ This report involves the evaluation of the following three algorithmic recourse 
 * `ProtoCF` Arnaud Van Looveren and Janis Klaise. Interpretable counterfactual explanations guided by prototypes. In *Machine Learning and Knowledge Discovery in Databases. Research Track: European Conference, ECML PKDD 2021, Bilbao, Spain, September 13–17, 2021, Proceedings, Part II 21*, pages 650–665. Springer, 2021.
 
 
-### For Colab New Users:
-To run the notebook [Exps.ipynb](./Exps.ipynb), it is highly recommended to open it with Colab. 
+### Readme for CSE 543T Grader:
+To run the notebook [Exps.ipynb](./Exps.ipynb), it is highly recommended to open it with Google Colab. 
 
-On Colab, please head to `Runtime` &rarr; `Change runtime type` &rarr; `Hardware accelerator` &rarr; `GPU`, as it will be significantly faster. Then `Runtime` &rarr; `Run all`.
+If you are a Colab new user &rarr; On Colab, please head to `Runtime` &rarr; `Change runtime type` &rarr; `Hardware accelerator` &rarr; `GPU`. Then `Runtime` &rarr; `Run all`.
 
