@@ -18,7 +18,7 @@ This report involves the evaluation of three algorithmic recourse methods: `Wach
 [^p]: Arnaud Van Looveren and Janis Klaise. Interpretable counterfactual explanations guided by prototypes. In *Machine Learning and Knowledge Discovery in Databases. Research Track: European Conference, ECML PKDD 2021, Bilbao, Spain, September 13–17, 2021, Proceedings, Part II 21*, pages 650–665. Springer, 2021.
 [^ad]: Ronny Kohavi and Barry Becker. UCI machine learning repository. [https://archive.ics.uci.edu/ml/datasets/adult](https://archive.ics.uci.edu/ml/datasets/adult), 2017.
 [^ou]: Jakub Kuzilek, Martin Hlosta, and Zdenek Zdrahal. Open university learning analytics dataset. *Scientific data*, 4(1):1–8, 2017
-[^he]: [www.kaggle.com/datasets/averkiyoliabev/home-equity-line-of-creditheloc](https://www.kaggle.com/datasets/averkiyoliabev/home-equity-line-of-creditheloc)
+[^he]: [Home Equity Line of Credit(HELOC)](https://www.kaggle.com/datasets/averkiyoliabev/home-equity-line-of-creditheloc)
 
 ### Readme for CSE 543T Grader:
 To run the notebook [Exps.ipynb](./Exps.ipynb), it is highly recommended to open it with Google Colab. 
